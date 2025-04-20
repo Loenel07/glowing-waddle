@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> foto </title>
+<meta name="foto" content="foto">
+</head>
+<body>
+<center> 
+<table border="1" width="1000" height="1000">
+<tr><td colspan="5" width="1000" heigth="166"><a href="index.html"><img src="foto25.jpg" width="1702" heigth="166"></a>
+<tr><td width="200" heigth="166"><a href="index.html"><img src="foto36.jpg" width="566" heigth="166"></a>
+<td colspan="4"rowspan="4" width="800" heigth="664"><img src="foto42.jpg" width="1120" heigth="664"></a>
+<tr><td width="200" heigth="166"><a href="index.html"><img src="foto36.jpg" width="566" heigth="166"></a>
+<tr><td width="200" heigth="166"><a href="index.html"><img src="foto36.jpg" width="566" heigth="166"></a>
+<tr><td width="200" heigth="166"><a href="index.html"><img src="foto36.jpg" width="566" heigth="166"></a>
+<tr><td width="200" heigth="166"><a href="https://youtu.be/cBiT3JE9B-o?si=nQCL9O-tT4MSJ35l"><img src="foto4.jpg" width="560" heigth="166"></a>
+<tr><td width="200" height="166"><a href="www.facebook.com"><img src="foto37.jpg" width="200" height="166"></a> 
+<td width="200" height="166"><a href="https://www.instagram.com/mrbrian_7/"> <img src="foto38.jpg" width="200" height="166"></a>
+<td width="200" height="166"><a href="https://twitter.com/mrbrianoficial"><img src="foto39.jpg" width="400" height="166"></a>
+</center>
+</table>
+</body>
+</html>
